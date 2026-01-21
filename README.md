@@ -38,6 +38,3 @@ Every time a transaction of goods takes place with a vendor, the accounting team
 - Logistic Regression
 - Random Forest
 - Model Evaluation: ROC/AUC, Precision-Recall
-
-## Author
-**Syed Mohammad Bilal**
